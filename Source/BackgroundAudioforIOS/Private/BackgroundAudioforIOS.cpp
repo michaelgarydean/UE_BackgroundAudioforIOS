@@ -8,9 +8,9 @@
 
 
 #include "BackgroundAudioforIOS.h"
-#import <AVFoundation/AVFoundation.h>
 
 #if PLATFORM_IOS
+#import <AVFoundation/AVFoundation.h>
 #include "IOSAppDelegate.h"
 #endif
 
